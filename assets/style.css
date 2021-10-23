@@ -1,0 +1,8 @@
+:root {
+    --primary-color: #d5685b;
+    --secondary color: white;
+}
+
+* {
+    background-color: #d5685b;
+}
